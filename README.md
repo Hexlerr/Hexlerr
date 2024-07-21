@@ -6,6 +6,6 @@ I'm a passionate Computer Science and Cybersecurity graduate with a keen interes
 - 🌱 I’m currently learning: Advanced Threat Detection, more Ethical Hacking, Network Defense Strategies.
 - 💞️ I’m looking to collaborate on website and other projects that has to do or has some parts in it related to Cybersecurity.
 - 📫 How to reach me
-- - [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sulaimanalbalawi/))
-  - [Email](sulaiman.alar@gmail.com).
+- - [LinkedIn](www.linkedin.com/in/sulaimanalbalawi)
+  - [Email]("sulaiman.alar@gmail.com").
  Feel free to contact me anytime as i am quite friendly..
